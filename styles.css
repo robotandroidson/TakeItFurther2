@@ -39,3 +39,40 @@ main{
     box-shadow:8px 8px 30px 8px black;
     /* h-offset v-offset blur spread color */
 }
+
+.autumn{
+	background-color:#e09f3e;
+	color:#540b0e;
+	
+	header{
+		background-color:#335c67;
+		color:#fff3b0;
+	}
+}
+.spring{
+	background-color:#c2ebde;
+	color:#000;
+	
+	header{
+		background-color:#ffccc7;
+		color:#c9b8eb;
+	}
+}
+.summer{
+	background-color:#ffd700;
+	color:#236e96;
+	
+	header{
+		background-color:#f3872f;
+		color:#15b2d3;
+	}
+}
+.winter{
+	background-color:#6281dc;
+	color:#e0bacf;
+	
+	header{
+		background-color:#1b2d52;
+		color:#9fb0e8;
+	}
+}
